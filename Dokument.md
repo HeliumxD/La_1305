@@ -1,9 +1,7 @@
 # La_1305
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Nicola Karrer, Carina Sutter
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,19 +12,23 @@
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
+Wir haben ein Snake game gemacht mit Pygame.
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.a
-
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-
+Wir haben ein kleines Pixel game gemacht mit Python. 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| US-№ | Beschreibung                       |
+| ---- | ---------------------------------- |
+| 1    | Der User kann mit den Pfeilen die Schlange steuern|
+| 2  | Der User kann Äpfel essen |
+| 3  | Wenn der User ein Apfel gegessen hat wird die Schlange länger |
+| 4 | Wenn der User ausversehen in sich selber schleicht ist das Spiel vorbei |
+| 5 | Als Spieler möchte ich, dass das Spiel vorbei ist, wenn die Schlange gegen die Wand oder sich selbst stösst damit es eine Herausforderung und ein Ende gibt. |
+| 6 | Als Spieler möchte ich ein Haptmenü sehen, bevor das SPiel startet damit ich das SPiel starten oder Einstellungen ändern kann. |
+| 7 | Als Spieler möchte ich eine Punkteanzige sehen damit ich meinen Fortschritt und meine Leistung verfolgen kann. |
+| 8 | Als Spieler möchte ich eine Möglichkeit haben, das Spiel zu pausieren und fortzusetzen damit ich bei Bedarf eine Pause machen kann |
+| 9 | Als Spieler möchte ich aus verschiedenen Schwierigkeitsgraden wählen können (leicht, mittel, schwer) damit ich das Spiel an mein Können anpassen kann. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
