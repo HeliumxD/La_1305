@@ -16,9 +16,7 @@ Wir haben uns vorgenommen, Python kennen zu lernen und haben deshalb für den St
 
 ### 1.2 User Stories
 
-S = Snakes
-P = Pong
-T = Tic Tac Toe
+S = Snakes | P = Pong | T = Tic Tac Toe
 
 | US-№ | Beschreibung                       |
 | ---- | ---------------------------------- |
@@ -46,50 +44,50 @@ T = Tic Tac Toe
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| S1.1  |              |         |                   |
-| S2.1  |              |         |                   |
-| S3.1  |              |         |                   |
-| S4.1  |              |         |                   |
-| S5.1  |              |         |                   |
-| S6.1  |              |         |                   |
-| S7.1  |              |         |                   |
-| S8.1  |              |         |                   |
-| S9.1  |              |         |                   |
-| P1.1  |              |         |                   |
-| P2.1  |              |         |                   |
-| P3.1  |              |         |                   |
-| P4.1  |              |         |                   |
-| P5.1  |              |         |                   |
-| T1.1  |              |         |                   |
-| T2.1  |              |         |                   |
-| T3.1  |              |         |                   |
-| T4.1  |              |         |                   |
-| T5.1  |              |         |                   |
+| S1.A  |              |         |                   |
+| S2.A  |              |         |                   |
+| S3.A  |              |         |                   |
+| S4.A  |              |         |                   |
+| S5.A  |              |         |                   |
+| S6.A  |              |         |                   |
+| S7.A  |              |         |                   |
+| S8.A  |              |         |                   |
+| S9.A  |              |         |                   |
+| P1.A  |              |         |                   |
+| P2.A  |              |         |                   |
+| P3.A  |              |         |                   |
+| P4.A  |              |         |                   |
+| P5.A  |              |         |                   |
+| T1.A  |              |         |                   |
+| T2.A  |              |         |                   |
+| T3.A  |              |         |                   |
+| T4.A  |              |         |                   |
+| T5.A  |              |         |                   |
 
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| S1.1  |              |         |                   |  |
-| S2.1  |              |         |                   |  |
-| S3.1  |              |         |                   |  |
-| S4.1  |              |         |                   |  |
-| S5.1  |              |         |                   |  |
-| S6.1  |              |         |                   |  |
-| S7.1  |              |         |                   |  |
-| S8.1  |              |         |                   |  |
-| S9.1  |              |         |                   |  |
-| P1.1  |              |         |                   |  |
-| P2.1  |              |         |                   |  |
-| P3.1  |              |         |                   |  |
-| P4.1  |              |         |                   |  |
-| P5.1  |              |         |                   |  |
-| T1.1  |              |         |                   |  |
-| T2.1  |              |         |                   |  |
-| T3.1  |              |         |                   |  |
-| T4.1  |              |         |                   |  |
-| T5.1  |              |         |                   |  |
+| S1.1  | 22.05.24 | Carina |                   | 60min |
+| S2.1  | 29.05.24 | Carina |                   | 50min |
+| S3.1  | 29.05.24 | Carina |                   | 50min |
+| S4.1  | 29.05.24 | Carina |                   | 50min |
+| S5.1  | 29.05.24 | Carina |                   | 75min |
+| S6.1  | 05.06.24 | Carina |                   | 20min |
+| S7.1  | 05.06.24 | Carina |                   | 20min |
+| S8.1  | 05.06.24 | Carina |                   | 20min |
+| S9.1  | 05.06.24 | Carina |                   | 75min |
+| P1.1  | 29.05.24 | Nicola |                   | 20min |
+| P2.1  | 29.05.24 | Nicola |                   | 20min |
+| P3.1  | 29.05.24 | Nicola |                   | 45min |
+| P4.1  | 29.05.24 | Nicola |                   | 45min |
+| P5.1  | 29.05.24 | Nicola |                   | 30min |
+| T1.1  | 05.06.24 | Nicola |                   | 50min |
+| T2.1  | 05.06.24 | Nicola |                   | 30min |
+| T3.1  | 05.06.24 | Nicola |                   | 30min |
+| T4.1  | 05.06.24 | Nicola |                   | 35min |
+| T5.1  | 05.06.24 | Nicola |                   | 35min |
 
 
 ## 3 Entscheiden
@@ -100,8 +98,25 @@ Wir haben uns dazu entschieden, dass Carina das Snake-game macht und ich das Pon
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| S1.1  | 22.05.24 | Carina | 60min | 60min |
+| S2.1  | 29.05.24 | Carina | 50min | 50min |
+| S3.1  | 29.05.24 | Carina | 50min | 50min |
+| S4.1  | 29.05.24 | Carina | 50min | 50min |
+| S5.1  | 29.05.24 | Carina | 75min | 75min |
+| S6.1  | 05.06.24 | Carina | 20min | 20min |
+| S7.1  | 05.06.24 | Carina | 20min | 20min |
+| S8.1  | 05.06.24 | Carina | 20min | 20min |
+| S9.1  | 05.06.24 | Carina | 75min | 75min |
+| P1.1  | 29.05.24 | Nicola | 20min | 20min |
+| P2.1  | 29.05.24 | Nicola | 20min | 20min |
+| P3.1  | 29.05.24 | Nicola | 45min | 45min |
+| P4.1  | 29.05.24 | Nicola | 45min | 45min |
+| P5.1  | 29.05.24 | Nicola | 30min | 30min |
+| T1.1  | 05.06.24 | Nicola | 50min | 50min |
+| T2.1  | 05.06.24 | Nicola | 30min | 30min |
+| T3.1  | 05.06.24 | Nicola | 30min | 30min |
+| T4.1  | 05.06.24 | Nicola | 35min | 35min |
+| T5.1  | 05.06.24 | Nicola | 35min | 35min |
 
 
 ## 5 Kontrollieren
@@ -132,3 +147,9 @@ Wir haben uns dazu entschieden, dass Carina das Snake-game macht und ich das Pon
 ## 6 Auswerten
 
 Das Projekt hat spass gemacht und wir haben viel Neues dazu gelernt. Wir denken auch, dass wir gut gearbeitet haben und diese kurze Zeit einiges schaffen konnten. Viele Schwierigkeiten gab es bei uns nicht und im Team gab es auch keine Probleme.
+
+1.3 Testfälle schreiben
+2 Planen Beschreibung
+*3 Entscheiden Länger
+*4 Realisieren Tatsächliche Zeit
+5 Kontrollieren Testen
