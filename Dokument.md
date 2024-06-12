@@ -51,7 +51,7 @@ S = Snakes | P = Pong | T = Tic Tac Toe
 | S5.A  | Spiel gestartet | Spieler fährtin eine Wand | Spiel geht zu Ende |
 | S6.A  | Spiel gestartet | - | Hauptmenu wird angezeigt |
 | S7.A  | Spiel gestartet | Spieler stirbt | Punkteanzeige zeigt Fortschritt an |
-| S8.A  | Spiel gestartet | Pause-Knopf drücken | Spiel wird angehalten |
+| S8.A  | Spiel gestartet | Spieler drückt P | Spiel wird angehalten |
 | S9.A  | Spiel gestartet | Spieler wählt Schwierigkeitsgrad aus | Spiel startet in diesem Schwierigkeitsgrad |
 | P1.A  | Spiel gestartet | Spieler drückt W | linker Balken geht nach oben |
 | P1.B  | Spiel gestartet | Spieler drückt S | linker Balken geht nach unten |
@@ -131,7 +131,7 @@ Wir haben uns dazu entschieden, dass Carina das Snake-game macht und ich das Pon
 | S4.1  | 12.06.24 | OK | Carina |
 | S5.1  | 12.06.24 | OK | Carina |
 | S6.1  | 12.06.24 | OK | Carina |
-| S7.1  | 12.06.24 | NOk | Carina |
+| S7.1  | 12.06.24 | Ok | Carina |
 | S8.1  | 12.06.24 | OK | Carina |
 | S9.1  | 12.06.24 | Ok | Carina |
 | P1.1  | 12.06.24 | OK | Nicola |
