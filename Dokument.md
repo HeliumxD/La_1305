@@ -20,9 +20,9 @@ S = Snakes | P = Pong | T = Tic Tac Toe
 
 | US-№ | Beschreibung                       |
 | ---- | ---------------------------------- |
-| S1    | Der User kann mit den Pfeilentasten die Schlange steuern|
-| S2  | Der User kann Äpfel essen |
-| S3  | Wenn der User ein Apfel gegessen hat, wird die Schlange länger |
+| S1 | Der User kann mit den Pfeilentasten die Schlange steuern|
+| S2 | Der User kann Äpfel essen |
+| S3 | Wenn der User ein Apfel gegessen hat, wird die Schlange länger |
 | S4 | Wenn der User ausversehen in sich selber schleicht, ist das Spiel vorbei |
 | S5 | Das Spiel ist vorbei, wenn die Schlange gegen die Wand oder in sich selbst stösst, damit es eine Herausforderung und ein Ende gibt |
 | S6 | Es gibt ein Haptmenü, bevor das Spiel startet, damit ich das Spiel starten oder Einstellungen ändern kann |
@@ -44,25 +44,27 @@ S = Snakes | P = Pong | T = Tic Tac Toe
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| S1.A  |              |         |                   |
-| S2.A  |              |         |                   |
-| S3.A  |              |         |                   |
-| S4.A  |              |         |                   |
-| S5.A  |              |         |                   |
-| S6.A  |              |         |                   |
-| S7.A  |              |         |                   |
-| S8.A  |              |         |                   |
-| S9.A  |              |         |                   |
-| P1.A  |              |         |                   |
-| P2.A  |              |         |                   |
-| P3.A  |              |         |                   |
-| P4.A  |              |         |                   |
-| P5.A  |              |         |                   |
-| T1.A  |              |         |                   |
-| T2.A  |              |         |                   |
-| T3.A  |              |         |                   |
-| T4.A  |              |         |                   |
-| T5.A  |              |         |                   |
+| S1.A  | Spiel gestartet | Spieler drückt eine Pfeiltaste | Schlange ändert ihre Richtung |
+| S2.A  | Spiel gestartet | Spieler isst einen Apfel | Der Apfel verschwindet |
+| S3.A  | Spiel gestartet | Spieler isst einen Apfel | Die Schlange wird länger |
+| S4.A  | Spiel gestartet | Spieler fährt in sich selbst hinein | Spiel geht zu Ende |
+| S5.A  | Spiel gestartet | Spieler fährtin eine Wand | Spiel geht zu Ende |
+| S6.A  | Spiel gestartet | - | Hauptmenu wird angezeigt |
+| S7.A  | Spiel gestartet | Spieler stirbt | Punkteanzeige zeigt Fortschritt an |
+| S8.A  | Spiel gestartet | Pause-Knopf drücken | Spiel wird angehalten |
+| S9.A  | Spiel gestartet | Spieler wählt Schwierigkeitsgrad aus | Spiel startet in diesem Schwierigkeitsgrad |
+| P1.A  | Spiel gestartet | Spieler drückt W | linker Balken geht nach oben |
+| P1.B  | Spiel gestartet | Spieler drückt S | linker Balken geht nach unten |
+| P2.A  | Spiel gestartet | Spieler drückt Pfeil nach oben | rechter Balken geht nach oben |
+| P2.B  | Spiel gestartet | Spieler drückt Pfeil nach unten | rechter Balken geht nach unten |
+| P3.A  | Spiel gestartet | - | Ball prallt ab |
+| P4.A  | Spiel gestartet | Ball prallt ab | Ball wird schneller |
+| P5.A  | Spiel gestartet | Tor geschossen | Punkteanzeige wird aktualisiert |
+| T1.A  | Spiel gestartet | - | 3x3 Feld wird generiert |
+| T2.A  | Spiel gestartet | Erster Spieler klickt auf ein Feld | Es wird ein X gesetzt |
+| T3.A  | Spiel gestartet | Zweiter Spieler klickt auf ein Feld | Es wird ein O gesetzt |
+| T4.A  | Spiel gestartet | Spiel beendet | Endresultat wird angezeigt |
+| T5.A  | Spiel beendet | Auf "new game" Knopf gedrückt | Neues Spiel wird gestartet |
 
 
 ## 2 Planen
@@ -133,7 +135,9 @@ Wir haben uns dazu entschieden, dass Carina das Snake-game macht und ich das Pon
 | S8.1  | 12.06.24 |  | Carina |
 | S9.1  | 12.06.24 |  | Carina |
 | P1.1  | 12.06.24 |  | Nicola |
+| P1.2  | 12.06.24 |  | Nicola |
 | P2.1  | 12.06.24 |  | Nicola |
+| P2.2  | 12.06.24 |  | Nicola |
 | P3.1  | 12.06.24 |  | Nicola |
 | P4.1  | 12.06.24 |  | Nicola |
 | P5.1  | 12.06.24 |  | Nicola |
