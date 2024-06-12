@@ -71,25 +71,25 @@ S = Snakes | P = Pong | T = Tic Tac Toe
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| S1.1  | 22.05.24 | Carina |                   | 60min |
-| S2.1  | 29.05.24 | Carina |                   | 50min |
-| S3.1  | 29.05.24 | Carina |                   | 50min |
-| S4.1  | 29.05.24 | Carina |                   | 50min |
-| S5.1  | 29.05.24 | Carina |                   | 75min |
-| S6.1  | 05.06.24 | Carina |                   | 20min |
-| S7.1  | 05.06.24 | Carina |                   | 20min |
-| S8.1  | 05.06.24 | Carina |                   | 20min |
-| S9.1  | 05.06.24 | Carina |                   | 75min |
-| P1.1  | 29.05.24 | Nicola |                   | 20min |
-| P2.1  | 29.05.24 | Nicola |                   | 20min |
-| P3.1  | 29.05.24 | Nicola |                   | 45min |
-| P4.1  | 29.05.24 | Nicola |                   | 45min |
-| P5.1  | 29.05.24 | Nicola |                   | 30min |
-| T1.1  | 05.06.24 | Nicola |                   | 50min |
-| T2.1  | 05.06.24 | Nicola |                   | 30min |
-| T3.1  | 05.06.24 | Nicola |                   | 30min |
-| T4.1  | 05.06.24 | Nicola |                   | 35min |
-| T5.1  | 05.06.24 | Nicola |                   | 35min |
+| S1.1  | 22.05.24 | Carina | Bewegen der Schlange | 60min |
+| S2.1  | 29.05.24 | Carina | Verhalten des Apfels | 50min |
+| S3.1  | 29.05.24 | Carina | Verlängerung der Schlange | 50min |
+| S4.1  | 29.05.24 | Carina | Spielende - Selber | 50min |
+| S5.1  | 29.05.24 | Carina | Spielende - Wand | 75min |
+| S6.1  | 05.06.24 | Carina | Hauptmenu | 20min |
+| S7.1  | 05.06.24 | Carina | Punkteanzeige | 20min |
+| S8.1  | 05.06.24 | Carina | Pausenknopf | 20min |
+| S9.1  | 05.06.24 | Carina | Schwierigkeitsgrad | 75min |
+| P1.1  | 29.05.24 | Nicola | Bewegung Spieler 1 | 20min |
+| P2.1  | 29.05.24 | Nicola | Bewegung Spieler 2 | 20min |
+| P3.1  | 29.05.24 | Nicola | Abprall des Balls | 45min |
+| P4.1  | 29.05.24 | Nicola | Schneller werden des Balls | 45min |
+| P5.1  | 29.05.24 | Nicola | Punkteanzeige | 30min |
+| T1.1  | 05.06.24 | Nicola | 3x3 Feld | 50min |
+| T2.1  | 05.06.24 | Nicola | Setzen Spieler 1 | 30min |
+| T3.1  | 05.06.24 | Nicola | Setzen Spieler 2 | 30min |
+| T4.1  | 05.06.24 | Nicola | Endresultat | 35min |
+| T5.1  | 05.06.24 | Nicola | Neues Spiel | 35min |
 
 
 ## 3 Entscheiden
@@ -100,24 +100,24 @@ Wir haben uns dazu entschieden, dass Carina das Snake-game macht und ich das Pon
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| S1.1  | 22.05.24 | Carina | 60min | 60min |
-| S2.1  | 29.05.24 | Carina | 50min | 50min |
-| S3.1  | 29.05.24 | Carina | 50min | 50min |
-| S4.1  | 29.05.24 | Carina | 50min | 50min |
-| S5.1  | 29.05.24 | Carina | 75min | 75min |
+| S1.1  | 22.05.24 | Carina | 60min | 30min |
+| S2.1  | 29.05.24 | Carina | 50min | 30min |
+| S3.1  | 29.05.24 | Carina | 50min | 40min |
+| S4.1  | 29.05.24 | Carina | 50min | 70min |
+| S5.1  | 29.05.24 | Carina | 75min | 70min |
 | S6.1  | 05.06.24 | Carina | 20min | 20min |
 | S7.1  | 05.06.24 | Carina | 20min | 20min |
-| S8.1  | 05.06.24 | Carina | 20min | 20min |
-| S9.1  | 05.06.24 | Carina | 75min | 75min |
-| P1.1  | 29.05.24 | Nicola | 20min | 20min |
-| P2.1  | 29.05.24 | Nicola | 20min | 20min |
-| P3.1  | 29.05.24 | Nicola | 45min | 45min |
-| P4.1  | 29.05.24 | Nicola | 45min | 45min |
+| S8.1  | 05.06.24 | Carina | 20min | 50min |
+| S9.1  | 05.06.24 | Carina | 75min | 80min |
+| P1.1  | 29.05.24 | Nicola | 20min | 15min |
+| P2.1  | 29.05.24 | Nicola | 20min | 15min |
+| P3.1  | 29.05.24 | Nicola | 45min | 50min |
+| P4.1  | 29.05.24 | Nicola | 45min | 50min |
 | P5.1  | 29.05.24 | Nicola | 30min | 30min |
-| T1.1  | 05.06.24 | Nicola | 50min | 50min |
-| T2.1  | 05.06.24 | Nicola | 30min | 30min |
-| T3.1  | 05.06.24 | Nicola | 30min | 30min |
-| T4.1  | 05.06.24 | Nicola | 35min | 35min |
+| T1.1  | 05.06.24 | Nicola | 50min | 60min |
+| T2.1  | 05.06.24 | Nicola | 30min | 20min |
+| T3.1  | 05.06.24 | Nicola | 30min | 20min |
+| T4.1  | 05.06.24 | Nicola | 35min | 45min |
 | T5.1  | 05.06.24 | Nicola | 35min | 35min |
 
 
@@ -151,9 +151,3 @@ Wir haben uns dazu entschieden, dass Carina das Snake-game macht und ich das Pon
 ## 6 Auswerten
 
 Das Projekt hat spass gemacht und wir haben viel Neues dazu gelernt. Wir denken auch, dass wir gut gearbeitet haben und diese kurze Zeit einiges schaffen konnten. Viele Schwierigkeiten gab es bei uns nicht und im Team gab es auch keine Probleme.
-
-1.3 Testfälle schreiben
-2 Planen Beschreibung
-*3 Entscheiden Länger
-*4 Realisieren Tatsächliche Zeit
-5 Kontrollieren Testen
