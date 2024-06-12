@@ -125,27 +125,27 @@ Wir haben uns dazu entschieden, dass Carina das Snake-game macht und ich das Pon
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| S1.1  | 12.06.24 |  | Carina |
-| S2.1  | 12.06.24 |  | Carina |
-| S3.1  | 12.06.24 |  | Carina |
-| S4.1  | 12.06.24 |  | Carina |
-| S5.1  | 12.06.24 |  | Carina |
-| S6.1  | 12.06.24 |  | Carina |
-| S7.1  | 12.06.24 |  | Carina |
-| S8.1  | 12.06.24 |  | Carina |
-| S9.1  | 12.06.24 |  | Carina |
-| P1.1  | 12.06.24 |  | Nicola |
-| P1.2  | 12.06.24 |  | Nicola |
-| P2.1  | 12.06.24 |  | Nicola |
-| P2.2  | 12.06.24 |  | Nicola |
-| P3.1  | 12.06.24 |  | Nicola |
-| P4.1  | 12.06.24 |  | Nicola |
-| P5.1  | 12.06.24 |  | Nicola |
-| T1.1  | 12.06.24 |  | Nicola |
-| T2.1  | 12.06.24 |  | Nicola |
-| T3.1  | 12.06.24 |  | Nicola |
-| T4.1  | 12.06.24 |  | Nicola |
-| T5.1  | 12.06.24 |  | Nicola |
+| S1.1  | 12.06.24 | OK | Carina |
+| S2.1  | 12.06.24 | OK | Carina |
+| S3.1  | 12.06.24 | OK | Carina |
+| S4.1  | 12.06.24 | OK | Carina |
+| S5.1  | 12.06.24 | OK | Carina |
+| S6.1  | 12.06.24 | OK | Carina |
+| S7.1  | 12.06.24 | NOk | Carina |
+| S8.1  | 12.06.24 | OK | Carina |
+| S9.1  | 12.06.24 | Ok | Carina |
+| P1.1  | 12.06.24 | OK | Nicola |
+| P1.2  | 12.06.24 | OK | Nicola |
+| P2.1  | 12.06.24 | OK | Nicola |
+| P2.2  | 12.06.24 | OK | Nicola |
+| P3.1  | 12.06.24 | OK | Nicola |
+| P4.1  | 12.06.24 | OK | Nicola |
+| P5.1  | 12.06.24 | OK | Nicola |
+| T1.1  | 12.06.24 | OK | Nicola |
+| T2.1  | 12.06.24 | OK | Nicola |
+| T3.1  | 12.06.24 | OK | Nicola |
+| T4.1  | 12.06.24 | OK | Nicola |
+| T5.1  | 12.06.24 | OK | Nicola |
 
 
 ## 6 Auswerten
